@@ -1,0 +1,8 @@
+<html>
+    <body>
+        <script>
+           var sabido = prompt("Vou Advinnhar a sua Idade, Informe ela abaixo")
+            alert('Sua idade é'+ sabido)
+        </script>
+    </body>
+</html>
